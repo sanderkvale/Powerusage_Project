@@ -1,0 +1,42 @@
+
+ Residence: 1 Python Way 
+
+	Highest daily usage: Freezer (15600.0 W) 
+
+	Lowest daily usage: TV (140.0 W) 
+
+
+ Residence: 2 Python Way 
+
+	Highest daily usage: Fridge1 (6000.0 W) 
+
+	Lowest daily usage: Blender (35.0 W) 
+
+
+ Residence: 3 Python Way 
+
+	Highest daily usage: Fridge_outside (5136.0 W) 
+
+	Lowest daily usage: Bedside_lamp_1 (28.0 W) 
+
+
+ Residence: 4 Python Way 
+
+	Highest daily usage: Television (1400.0 W) 
+
+	Lowest daily usage: Mobiles Chargers (1.0 W) 
+
+
+ Residence: 5 Python Way 
+
+	Highest daily usage: EvaporativeAircon (9000.0 W) 
+
+	Lowest daily usage: Rangehood (225.0 W) 
+
+
+ Residence: 6 Python Way 
+
+	Highest daily usage: Heater (12000.0 W) 
+
+	Lowest daily usage: TV (0.0 W) 
+

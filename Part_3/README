@@ -1,0 +1,18 @@
+## Synopsis
+
+COMP1005 Assignment Part 3 - Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - Readme file for COMP1005 Assignment Part 3
+ApplianceReadings(Dir) - Contains all the csv files used to represent each house in powersimulation.py
+house.py - Class and associated functions for a house in the street
+powersimulation.py - Creates a streets containing objects of the House class and gives useful information about the street
+
+## Dependencies
+
+none
+
+## Version information
+
+01.06.2020 - Final version of Part 3 of COMP1005 Assignment

@@ -1,0 +1,17 @@
+## Synopsis
+
+COMP1005 Assignment Part 2 - Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - Readme file for COMP1005 Assignment Part 2
+ApplianceReadings(Dir) - Contains csv file containing appliance information 
+powermodelling.py - Reads appliance information from a csv file and displays information about the usage
+
+## Dependencies
+
+none
+
+## Version information
+
+01.06.2020 - Final version of Part 2 of COMP1005 Assignment
